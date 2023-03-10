@@ -1,2 +1,3 @@
 let a = 4;
-console.log(a);
+let b = 5;
+console.log(a+b/2);
